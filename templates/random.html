@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message📢</title>
+</head>
+<body>
+    {% if mood==info %}
+    <h3>ℹ️{{message}}ℹ️</h3>
+    {% elif mood==success %}
+    <h3>🎊 {{message}} 🎊</h3>
+    {% elif mood==error %}
+    <h3>🚨{{message}}🚨</h3>
+    {% else %}
+    <h3>{{message}}</h3>
+    {% endif %}
+</body>
+</html>
