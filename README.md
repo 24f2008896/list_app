@@ -1,18 +1,20 @@
 # list_app
-This is a web_page where one can create several checklists.
+This is a web_page where one can create several **checklists**.
 The different checklists that one can create are:
--cook_book page (👩🏻‍🍳🧑🏻‍🍳)
--shopping list (🛍️)
--bucket list (🪣)
--study list (📚)
--to-do-list (🗒️)
--travel-list (🗺️)
--grocery list (🛒) (auto-generate emojis as bullet-ins)
+- cook_book page (👩🏻‍🍳🧑🏻‍🍳)
+- shopping list (🛍️)
+- bucket list (🪣)
+- study list (📚)
+- to-do-list (🗒️)
+- travel-list (🗺️)
+- grocery list (🛒) (auto-generate emojis as bullet-ins)
 -custom list (📋)
--quotes list (⍞)
+- quotes list (⍞)
+
 It requires user-login for date-storage and appropriate data retrieval.
-There is also a timer ⏳ and a stopwatch ⏱️ integrated.
-There is also an option to create a table and then create a chart(pie chart or bar chart 📊) using the values in that table.
+There is also a **timer** ⏳ and a **stopwatch** ⏱️ integrated.
+There is also an option to create a **table** and then create a **chart**(pie chart or bar chart 📊) using the values in that table.
+
 The cook_book page elements are as follows:
     -Title
     -Receipe Image
